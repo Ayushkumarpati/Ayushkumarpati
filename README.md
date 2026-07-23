@@ -19,6 +19,7 @@ Computer Science Graduate | Cybersecurity Enthusiast<br>Learning Ethical Hacking
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-DC143C?style=for-the-badge&logo=cisco&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-205493?style=for-the-badge&logo=linux&logoColor=white)
+![Angry IP Scanner](https://img.shields.io/badge/Angry_IP_Scanner-FF4500?style=for-the-badge&logo=radar&logoColor=white)
 
 #### 🔍 SIEM, Log Analysis & Forensics
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
