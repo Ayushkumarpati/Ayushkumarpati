@@ -16,7 +16,7 @@ Computer Science Graduate | Cybersecurity Enthusiast<br>Learning Ethical Hacking
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ayushkumarpati&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ayushkumarpati&icon=0&color=green)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
