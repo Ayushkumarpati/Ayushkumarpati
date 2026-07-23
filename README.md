@@ -30,11 +30,6 @@ Computer Science Graduate | Cybersecurity Enthusiast<br>Learning Ethical Hacking
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
-### 📊 GitHub Activity
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushkumarpati&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumarpati&layout=compact&theme=dark)
-
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ayushkumarpati&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
