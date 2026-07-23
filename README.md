@@ -21,7 +21,8 @@ Computer Science Graduate | Cybersecurity Enthusiast<br>Learning Ethical Hacking
 ![tcpdump](https://img.shields.io/badge/tcpdump-205493?style=for-the-badge&logo=linux&logoColor=white)
 ![Angry IP Scanner](https://img.shields.io/badge/Angry_IP_Scanner-FF4500?style=for-the-badge&logo=radar&logoColor=white)
 
-#### 🔍 SIEM, Log Analysis & Forensics
+#### 🛡️ Enterprise SIEM & SOC Tools
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white)
