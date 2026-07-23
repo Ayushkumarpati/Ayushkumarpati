@@ -17,8 +17,6 @@ Computer Science Graduate | Cybersecurity Enthusiast<br>Learning Ethical Hacking
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
 <!--
 **Ayushkumarpati/Ayushkumarpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
